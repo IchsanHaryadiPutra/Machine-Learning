@@ -1,1 +1,22 @@
+1. Instalasi Jupyter Notebook menggunakan CMD
+2. Google Collab
+3. Membuat akun Kaggle
+4. Membuat akun GitHub
+5. Praktek
+    a. Load Sample dataset dari scikit learn
+    b. Metadata | Deskripsi dari sample dataset
+    c. Explanatory & Response Variables | Features & Target
+    d. Feature & Target Names
+    e. Visualisasi Data menggunakan matplotlib
+    f. Training Set & Testing Set
+    g. Load sample dataset sebagai Pandas Data Frame
+6. Praktek
+    a. Persiapan dataset | Loading & splitting dataset
+    b. Training model Machine Learning
+    c. Evaluasi model Machine Learning
+    d. Pemanfaatan trained model machine learning
+    e. Deploy model Machine Learning | Dumping dan Loading model Machine Learning
+7. Praktek
+    a. Persiapan sample dataset
+    b. Teknik data preprocessing binarisation, scalling, normalisation 
 
