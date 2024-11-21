@@ -1,0 +1,9 @@
+1.	Praktek 1
+    a. Persiapan dataset: Iris Dataset
+    b. Training model Decision Tree Classifier
+    c. Visualisasi model Decision Tree
+    d. Evaluasi model Decision Tree
+2.	Praktek 2
+    a. Persiapan dataset | Iris Flower Dataset
+    b. Implementasi Random Forest Classifier dengan Scikit Learn
+    c. Evaluasi model  dengan Classification Report
