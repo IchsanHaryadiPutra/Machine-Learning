@@ -1,1 +1,29 @@
-
+1.	Praktek 1
+    a. Sample Dataset
+    b. Visualisasi Data
+    c. Transformasi Data
+    d. Training Simple Linear Regression Model
+    e. Visualisasi Simple Linear Regression Model | Penjelasan persamaan garis linear
+    f. Kalkulasi nilai slope
+    g. Kalkukasi nilai intercept
+    h. Prediksi harga pizza dengan Simple Linear Regression Model
+    i. Evaluasi model dengan Coefficient of Determination | R Squared
+    j. Kalkulasi nilai R Squared | Coefficient of Determination
+2.	Praktek 2
+    a. Persiapan sample dataset
+    b. Preprocessing dataset
+    c. Pengenalan Multiple Linear Regression
+    d. Pengenalan Polynomial Regression
+    e. Quadratic Polynomial Regression
+    f. Linear Regression vs Quadratic Polynomial Regression vs Cubic Polynomial Regression
+3.	Praktek 3
+    a. Persiapan dataset | SMS Spam Collection Dataset
+    b. Pembagian training dan testing set
+    c. Feature extraction dengan TF-IDF
+    d. Binary Classification dengan Logistic Regression
+    f. Evaluation Metrics pada Binary Classification Task
+      1)	Pengenalan Confusion Matrix
+      2)	Pengenalan Accuracy Score
+      3)	Pengenalan Precision dan Recall
+      4)	Pengenalan F1 Score | F1 Measure
+      5)	Pengenalan ROC | Receiver Operating Characteristic
